@@ -51,8 +51,8 @@ I am passionate about growing as a developer and aspire to create games inspired
 
 <p align="center">
   <h2 align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=AkshayValtanitan&theme=dracula" />
+    <img src="https://github-profile-trophy.vercel.app/?username=AkshayValtanitan&theme=nord" />
   </h2>
-  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshayValtanitan&layout=compact&hide_border=true&theme=dracula&bg_color=00000000&langs_count=6">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AkshayValtanitan&theme=dracula&hide_border=true&background=FFFFFF00">
+  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshayValtanitan&layout=compact&hide_border=true&theme=nord&bg_color=00000000&langs_count=6">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AkshayValtanitan&theme=nord&hide_border=true&background=FFFFFF00">
 </p>

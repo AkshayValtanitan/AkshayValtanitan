@@ -44,7 +44,7 @@ I am passionate about growing as a developer and aspire to create games inspired
 
 ## Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,html,css,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,html,css,mysql" />
 </p>
 
 # Stats
